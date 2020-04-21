@@ -1,0 +1,8 @@
+<svg viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <path id="myPath" d="M20 30 A 50 50 0 1 1 20 90" fill="transparent"/>
+    <text>
+        <textPath xlink:href="#myPath" font-size="12">
+            妈妈西亚妈妈西亚妈妈西亚妈妈西亚妈妈西亚妈妈西亚
+        </textPath>
+    </text>
+</svg>
